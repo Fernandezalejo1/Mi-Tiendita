@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Button from '../Button.jsx'  // Asegúrate de que la ruta sea correcta
+import Button from '../Button.jsx'  
 import './ItemCount.css'
 
 const ItemCount = () => {
